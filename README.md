@@ -7,8 +7,10 @@ Code for the paper "A Diffusion Model for Community Transmission of Covid-19 Epi
 
 https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-rev11
 
+I am using the year 2015 population density data. 
+
 (3) Run the following files:
-Brazil_Solve8.m
-Brazil_Plot.m
-Brazil_District.m
+Brazil_Solve8.m;
+Brazil_Plot.m;
+Brazil_District.m;
 Brazil_DistrictDensity4.m
